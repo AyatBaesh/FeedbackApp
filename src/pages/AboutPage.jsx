@@ -1,5 +1,5 @@
-import React from 'react'
-
+import { Link } from "react-router-dom";
+import Card from "../components/shared/Card";
 export default function AboutPage() {
     return (
         <Card>
@@ -8,7 +8,7 @@ export default function AboutPage() {
                 <p>This is a React App to leave feedback</p>
                 <p>Version: 1.0.0</p>
                 <p>
-                    <a href="/">Back To Home</a>
+                    <Link to="/">Back To Home</Link>
                 </p>
             </div>
         </Card>
