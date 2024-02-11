@@ -30,13 +30,13 @@ bash
 cd FeedbackApp`
 
 
-npm install
+`npm install`
 
-npm install -g json-server
+`npm install -g json-server`
 
-json-server --watch db.json --port 5000
+`json-server --watch db.json --port 5000`
 
-npm start
+`npm start`
 
 The application should now be running on http://localhost:3000, and the JSON Server acting as your backend API on http://localhost:5000.
 
