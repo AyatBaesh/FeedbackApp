@@ -32,7 +32,7 @@ cd FeedbackApp`
 
 `npm install`
 
-`npm install -g json-server`
+`npm install json-server`
 
 `json-server --watch db.json --port 5000`
 
