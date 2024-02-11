@@ -4,10 +4,12 @@ Welcome to FeedbackApp, a dynamic platform designed to gather and manage feedbac
 
 **Features:**
 
-    Submit Feedback: Users can easily submit feedback with an intuitive interface.
-    Real-time Updates: Feedback is displayed in real-time, allowing for immediate review and action.
-    Feedback Management: Administrators can view, manage, and respond to feedback submissions.
-    Rating System: Users can rate their experience, providing valuable insights at a glance.
+    Context API for global state management
+    Dynamic feedback submission
+    Feedback list management
+    Rating system for feedback
+    Real-time UI updates
+    Form validation
 
 **Live version:** https://feedback-app-buyshow.netlify.app/
 
@@ -27,18 +29,17 @@ Before you begin, ensure you have the following installed:
 
 bash
 
-`git clone https://github.com/AyatBaesh/FeedbackApp.git
-cd FeedbackApp`
-
-
-`npm install`
-
-`npm install json-server`
-
-`json-server --watch db.json --port 5000`
-
-`npm start`
-
-The application should now be running on http://localhost:3000, and the JSON Server acting as your backend API on http://localhost:5000.
+    `git clone https://github.com/AyatBaesh/FeedbackApp.git
+    cd FeedbackApp`
+    
+    `npm install`
+    
+    `npm install json-server`
+    
+    `json-server --watch db.json --port 5000`
+    
+    `npm start`
+    
+    The application should now be running on http://localhost:3000, and the JSON Server acting as your backend API on http://localhost:5000.
 
 
