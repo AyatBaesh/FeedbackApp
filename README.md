@@ -2,7 +2,8 @@
 
 Welcome to FeedbackApp, a dynamic platform designed to gather and manage feedback effortlessly. This application enables users to submit their feedback on various services or products, allowing administrators or team members to monitor, analyze, and act on the feedback received. Whether you're looking to improve your customer service, enhance your products, or simply engage with your community, FeedbackApp offers a streamlined, user-friendly solution.
 
-**Features**
+**Features:**
+
     Submit Feedback: Users can easily submit feedback with an intuitive interface.
     Real-time Updates: Feedback is displayed in real-time, allowing for immediate review and action.
     Feedback Management: Administrators can view, manage, and respond to feedback submissions.
