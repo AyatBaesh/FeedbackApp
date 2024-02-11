@@ -29,29 +29,12 @@ bash
 `git clone https://github.com/AyatBaesh/FeedbackApp.git
 cd FeedbackApp`
 
-    Install NPM packages
-
-bash
 
 npm install
 
-    Launch the application locally with JSON Server
-
-    First, install JSON Server globally if you haven't already:
-
-bash
-
 npm install -g json-server
 
-    Then, start the JSON server:
-
-bash
-
 json-server --watch db.json --port 5000
-
-    Finally, in a new terminal window, start the application:
-
-bash
 
 npm start
 
