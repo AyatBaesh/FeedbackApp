@@ -11,7 +11,6 @@ Features
 **Live version:** https://feedback-app-buyshow.netlify.app/
 
 This version does not require any backend setup and is ideal for quickly exploring the app's features.
-Getting Started
 
 **To run locally:**
 
@@ -27,8 +26,8 @@ Before you begin, ensure you have the following installed:
 
 bash
 
-git clone https://github.com/AyatBaesh/FeedbackApp.git
-cd FeedbackApp
+`git clone https://github.com/AyatBaesh/FeedbackApp.git
+cd FeedbackApp`
 
     Install NPM packages
 
